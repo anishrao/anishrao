@@ -1,6 +1,8 @@
 <!-- Anish Rao's GitHub Profile README -->
 
-![General Kenobi...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F6Y2p0Ym50dmVhNTN1NjZ4bzB4NWRnZXhoMWYxZ3JlcWpueGs1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F6Y2p0Ym50dmVhNTN1NjZ4bzB4NWRnZXhoMWYxZ3JlcWpueGs1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt="General Kenobi..." />
+</p>
 
 <h2 align="center">I am Anish Rao</h2>
 
@@ -19,4 +21,3 @@ Hey, I am Anish!
 - 🤖 I am passionate about **non-equilibrium systems, automation, and nanoparticle based sensing and catalysis**  
 
 > **Motto:** _"Automate experiments, not curiosity."_ 🚀
-
