@@ -11,13 +11,3 @@
   <img src="https://img.shields.io/badge/Location-Switzerland-orange?style=flat-square" />
 </p>
 
----
-
-## 👨‍🔬 About Me
-
-Hey, I am Anish!  
-- 🧪 Researcher at the University of Fribourg, Switzerland  
-- 🔬 I work at the intersection of **DNA origami, plasmonics, and nanomaterials**  
-- 🤖 I am passionate about **non-equilibrium systems, automation, nanoparticle based sensing and catalysis**  
-
-> **Motto:** _"Automate experiments, not curiosity."_ 🚀
